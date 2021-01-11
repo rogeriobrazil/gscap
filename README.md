@@ -4,7 +4,7 @@
 
 pip3 install -r requirements.txt 
 
-## Instalar sqlite3 em distros basedas em Debian
+## Instalar sqlite3 em distros baseadas em Debian
 
 sudo apt install sqlite3
 
