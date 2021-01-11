@@ -1,6 +1,6 @@
 # gscap
 
-# Instalar depemdências
+# Instalar dependências
 
 pip3 install -r requirements.txt 
 
