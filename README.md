@@ -13,4 +13,7 @@ sudo apt install sqlite3
 python3 -m unittest tests/test_cvm.py
 
 
+## TODO
+
+Falta acrescenar a pesquisa por data início e término em consulta_dados() e o retorno diário do fundo.
 
